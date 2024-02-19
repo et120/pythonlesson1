@@ -5,7 +5,10 @@ print(greeting)
 # Notes (single hash = single-line comment)
 
 '''
-Triple quotes = multi-line comment
+Multiline Comments - Python does not really have a syntax for multiline comments. To add a multiline comment you could insert a # for each line. Or, not quite as intended, you can use a multiline string.
+
+Since Python will ignore string literals that are not assigned to a variable, you can add a multiline string (triple quotes) in your code, and place your comment inside it.
+
 
 In computer programming, you’ll find two kinds of programming languages: 
 
@@ -30,4 +33,7 @@ REPL:
 - Printing any output so that you can check your code’s results and get immediate feedback
 - Looping back to step one to continue the interaction
 
+Terminal:
+py => starts REPL
+quit() => quits REPL
 '''
