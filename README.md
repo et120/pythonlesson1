@@ -14,3 +14,5 @@ This project is a "follow-along" to a freeCodeCamp YouTube `tutorial series` des
     - data_types.py
 5. User Input
     - rps.py
+6. Lists & Tuples
+    - lists.py
