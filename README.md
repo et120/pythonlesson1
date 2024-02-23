@@ -16,3 +16,5 @@ This project is a "follow-along" to a freeCodeCamp YouTube `tutorial series` des
     - rps.py
 6. Lists & Tuples
     - lists.py
+7. Dictionaries & Sets
+    - dictionaries.py
