@@ -22,9 +22,9 @@ This project is a 9+ hour "follow-along" to a freeCodeCamp YouTube `tutorial ser
 | 11 | :white_check_mark: | Scope | [scope.py](/chapters/scope.py), [rps4.py](/rps_game/rps4.py) | `global`, `nonlocal`, Refactor RPS |
 | 12 | :white_check_mark: | Closures | [closure.py](/chapters/closure.py), [rps5.py](/rps_game/rps5.py) | Closure, Refactor RPS |
 | 13 | :white_check_mark: | f-Strings | [f-strings.py](/chapters/f_strings.py), [rps6.py](/rps_game/rps6.py)  | f-Strings, Old Methods |
-| 14 | :white_check_mark: | Modules | [modules.py](/chapters/modules.py) | Modules, Refactor RPS |
-| 15 | :white_square_button: | Command Line Arguments |  |  |
-| 16 | :white_square_button: | Challengs |  |  |
+| 14 | :white_check_mark: | Modules | [modules.py](/chapters/modules.py), [kansas.py](/chapters/kansas.py), [rps7.py](/rps_game/rps7.py) | Modules, Refactor RPS |
+| 15 | :white_check_mark: | Command Line Arguments | [hello_person.py](/chapters/hello_person.py), [rps8.py](/rps_game/rps8.py) | Command Line Arguments |
+| 16 | :white_square_button: | Challenges |  |  |
 | 17 | :white_square_button: | Lambda & Higher Order Functions |  |  |
 | 18 | :white_square_button: | Classes & Objects |  |  |
 | 19 | :white_square_button: | Exceptions & Errors |  |  |
