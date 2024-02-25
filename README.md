@@ -25,9 +25,9 @@ This project is a 9+ hour "follow-along" to a freeCodeCamp YouTube `tutorial ser
 | 14 | :white_check_mark: | Modules | [modules.py](/chapters/modules.py), [kansas.py](/chapters/kansas.py), [rps7.py](/rps_game/rps7.py) | Modules, Refactor RPS |
 | 15 | :white_check_mark: | Command Line Arguments | [hello_person.py](/chapters/hello_person.py), [rps8.py](/rps_game/rps8.py) | Command Line Arguments |
 | 16 | :white_check_mark: | Challenges | [arcade.py](/arcade/arcade.py), [guess_number.py](/arcade/guess_number.py), [rps.py](/arcade/rps.py) | Review, Arcade Challenges |
-| 17 | :white_square_button: | Lambda & Higher Order Functions |  |  |
-| 18 | :white_square_button: | Classes & Objects |  |  |
-| 19 | :white_square_button: | Exceptions & Errors |  |  |
+| 17 | :white_check_mark: | Lambda & Higher Order Functions | [lambda.py](/chapters/lamda.py) | Lamba Expressions, Higher Order Functions |
+| 18 | :white_check_mark: | Classes & Objects | [classes.py](/chapters/classes.py) | Classes, Objects |
+| 19 | :white_check_mark: | Exceptions & Errors | [exceptions.py](/chapters/exceptions.py) | Exceptions, Errors |
 | 20 | :white_square_button: | OOP Project |  |  |
 | 21 | :white_square_button: | Virtual Environments & PIP |  |  |
 | 22 | :white_square_button: | File Operations |  |  |
