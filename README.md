@@ -29,6 +29,6 @@ This project is a 9+ hour "follow-along" to a freeCodeCamp YouTube `tutorial ser
 | 18 | :white_check_mark: | Classes & Objects | [classes.py](/chapters/classes.py) | Classes, Objects |
 | 19 | :white_check_mark: | Exceptions & Errors | [exceptions.py](/chapters/exceptions.py) | Exceptions, Errors |
 | 20 | :white_check_mark: | OOP Project | [bank_accounts.py](/oop/bank_accounts.py), [oop_project.py](/oop/oop_project.py) | Object Oriented Programming, Bank Accounts Project |
-| 21 | :white_square_button: | Virtual Environments & PIP |  |  |
+| 21 | :white_check_mark: | Virtual Environments & PIP | [weather.py](/chapters/ch21/weather.py), [requirements.txt](/chapters/ch21/requirements.txt) | Virtual Environment, PIP, Weather *(had issue w/ Import dotenv)* |
 | 22 | :white_square_button: | File Operations |  |  |
 | 23 | :white_square_button: | Final Project |  |  |
